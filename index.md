@@ -1,10 +1,8 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R836MM1H1E"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-R836MM1H1E');
-</script>
+# 副腎摘出後の体験と回復の記録
+#### Adrenalectomy Recovery
+
+---
+
 
 # PLS ナビ
 
