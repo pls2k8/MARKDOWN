@@ -57,34 +57,14 @@ title: 症状ページ
 <section id="section01">
   
 <div class="idea-block">
-
-  <h4 class="idea-title">
-  01｜目を閉じる15分休憩
-  </h4>
-
-
-<p class="idea-text">
-10時と3時に15分だけ静かな休憩をしてみませんか。
-</p>
-
-<p class="idea-text">
-100円ショップなどで手に入るアイパッチを
-</p>
-
-<p class="idea-text">
-使います。
-</p>
-
-<p class="idea-text">
-部屋が明るくても目を閉じれば暗い環境になります。
-</p>
-
-<p class="idea-text">
-横になり、ゆっくり呼吸するだけ。
-</p>
-
-<p class="idea-text">
+  <h4 class="idea-title">01｜目を閉じる15分休憩 </h4>
+  <p class="idea-text">
+10時と3時に、15分だけ静かな休憩をしてみませんか。<br>
+100円ショップなどで手に入るアイパッチを使います。<br>
+部屋が明るくても、目を閉じれば暗い環境になります。<br>
+横になり、ゆっくり呼吸するだけ。<br>
 眠っても眠らなくても大丈夫な休憩です。
+
 </p>
 
 </div>
