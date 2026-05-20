@@ -14,7 +14,7 @@ title: 症状ページ
 
 - <a href="#section01">No.01 倦怠感</a>
 - <a href="#section02">No.02 疲労感</a>
-- <a href="#section03">No.03 朝の不調</a>
+- <a href="#section03">No.03 読む時間を作る</a>
 
 ---
 
@@ -124,5 +124,5 @@ title: 症状ページ
   </div>
 
   </section>
-  
+
   
