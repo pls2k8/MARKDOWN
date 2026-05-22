@@ -22,7 +22,7 @@ title: 症状ページ
 
 - <a href="#section04">No.04 めまい</a>
 - <a href="#section05">No.05 立ちくらみ、動けなくなる</a>
-- <a href="#section06">No.06 動悸</a>
+- <a href="#section18">No.18 動悸と微熱が重なる日</a>
 
 ---
 
