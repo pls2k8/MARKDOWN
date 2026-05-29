@@ -16,7 +16,7 @@ title: ホーム
 **診断されたばかりで不安な方へ**  
 👉 ▶ 診断から治療までの記録を見る  
 <span style="color:#999999;font-size:0.9em;">
-My Experience from Diagnosis to Treatment
+My Journey from Diagnosis to Treatment
 </span>
 ---
 
