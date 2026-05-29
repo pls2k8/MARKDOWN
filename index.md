@@ -14,9 +14,10 @@ title: ホーム
 
 ## はじめての方へ
 **診断されたばかりで不安な方へ**  
-👉 ▶ 診断から治療までの記録を見る
-    
-    *My Experience from Diagnosis to Treatment*
+👉 ▶ 診断から治療までの記録を見る  
+<span style="color:#999999;font-size:0.9em;">
+My Experience from Diagnosis to Treatment
+</span>
 ---
 
 ## 症状で困っている方へ
