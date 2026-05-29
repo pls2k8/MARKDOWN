@@ -15,6 +15,7 @@ title: ホーム
 ## はじめての方へ
 **診断されたばかりで不安な方へ**  
 👉 ▶ 診断から治療までの記録を見る
+    My Experience from Diagnosis to Treatment
 
 ---
 
