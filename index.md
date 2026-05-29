@@ -14,8 +14,9 @@ title: ホーム
 
 ## はじめての方へ
 **診断されたばかりで不安な方へ**  
-👉 ▶ 診断から治療までの記録を見る  
-*My Journey from Diagnosis to Treatment*
+👉 ▶ 診断から治療までの記録を見る
+
+##### My Journey from Diagnosis to Treatment
 ---
 
 ## 症状で困っている方へ
@@ -27,3 +28,4 @@ title: ホーム
 ## 生活への影響・QOLの変化
 **術後や日常生活の変化を知りたい方へ**  
 👉 ▶ QOLページを見る
+
