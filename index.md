@@ -15,9 +15,7 @@ title: ホーム
 ## はじめての方へ
 **診断されたばかりで不安な方へ**  
 👉 ▶ 診断から治療までの記録を見る  
-<span style="color:#999999;font-size:0.9em;">
-My Journey from Diagnosis to Treatment
-</span>
+*My Journey from Diagnosis to Treatment*
 ---
 
 ## 症状で困っている方へ
