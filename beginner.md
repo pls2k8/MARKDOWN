@@ -2,7 +2,7 @@
 
 *It All Started with a Routine Checkup*
 
-
+<hr style="margin-top:5px; margin-bottom:15px;">
 
 約20年前、36歳のときでした。
 
