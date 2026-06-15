@@ -28,6 +28,8 @@ A Proven but More Invasive Approach
 or
 A Minimally Invasive Alternative
 
+
+
 手術には大きく2つの方法があり、体への負担は大きいが実績のある方法と、
 当時まだ新しかった腹腔鏡手術が提示されました。
 
