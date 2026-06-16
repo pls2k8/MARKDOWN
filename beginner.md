@@ -73,6 +73,9 @@ A Minimally Invasive Alternative
 ---
 
 ## 手術当日、静かに進んでいく時間
+
+*The Rest Was in Their Hands*
+
 手術当日は三度目の入院でした。
 
 待機中の不安は消えませんでしたが、
@@ -86,6 +89,8 @@ A Minimally Invasive Alternative
 
 手術室へ向かう間や麻酔がかかる直前まで、
 冗談を言いながら過ごしていたのもその一つです。
+
+---
 
 ## 術後、ICUでの時間
 次に気がついたときには、ICUの強い光の中でした。
