@@ -179,9 +179,9 @@ A Minimally Invasive Alternative
 
 ---
 
-## 元には戻らないという現実
+## 20年後、見えてきたこと
 
-*Realizing I Wasn't Going Back to My Old Normal*
+*Twenty Years Later, Still Here*
 
 当時はその原因や対処法も分からず、
 体の状態に合わせて生活を変えざるを得なくなりました。
