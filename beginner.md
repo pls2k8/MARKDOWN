@@ -54,6 +54,9 @@ A Minimally Invasive Alternative
 
 
 ## 何もできない時間の不安
+
+*Tests, Preparations, and Waiting*
+
 その後、検査入院を2回行い、2回目は手術に向けた準備が進みました。
 
 ただ当時は腹腔鏡手術の実績がある病院が限られており、
@@ -66,6 +69,8 @@ A Minimally Invasive Alternative
 
 何か行動できればまだ気が紛れますが、
 ただ待つしかない状況は、不安をより強く感じさせるものでした。
+
+---
 
 ## 手術当日、静かに進んでいく時間
 手術当日は三度目の入院でした。
