@@ -195,9 +195,9 @@ A Minimally Invasive Alternative
 
 ---
 
- ## 20年後、見えてきたこと
+## 20年後、見えてきたこと
 
-*Twenty Years Later, Still Here*
+*Twenty Years Later, Still Doing Fine*
 
 これを書いている現在は、あれから約20年が経ちました。
 
