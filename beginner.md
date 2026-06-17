@@ -232,14 +232,12 @@ A Minimally Invasive Alternative
 
 ## 次に読む
 
-👉 症状で困っている方はこちら
-
 <a href="symptoms.html">
 症状ページ<br>
 <small>Start with Your Current Symptoms</small>
 </a>
 
-👉 術後の生活や工夫についてはこちら
+<br><br>
 
 <a href="qol.html">
 QOLページ<br>
