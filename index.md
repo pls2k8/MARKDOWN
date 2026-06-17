@@ -23,9 +23,13 @@ title: ホーム
 **今つらい症状から探したい方へ**  
 👉 ▶ 症状ページを見る
 
+##### Start with Your Symptoms
 ---
 
 ## 生活への影響・QOLの変化
 **術後や日常生活の変化を知りたい方へ**  
 👉 ▶ QOLページを見る
+
+##### Understanding Changes and Finding Way to Cope
+
 
