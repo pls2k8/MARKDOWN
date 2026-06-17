@@ -2,8 +2,6 @@
 
 *It All Started with a Routine Checkup*
 
-<hr class="subtitle-divider">
-
 約20年前、36歳のときでした。
 
 健康診断で高血圧を指摘され、しばらくは経過観察が続いていました。
