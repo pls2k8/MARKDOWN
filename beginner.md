@@ -232,12 +232,19 @@ A Minimally Invasive Alternative
 
 ## 次に読む
 
-👉 症状で困っている方はこちら  
-[症状ページ](symptoms.md)
+👉 症状で困っている方はこちら
 
-👉 術後の生活や工夫についてはこちら  
-[QOLページ](qol.md)
+<a href="symptoms.html">
+症状ページ<br>
+<small>Start with Your Current Symptoms</small>
+</a>
 
+👉 術後の生活や工夫についてはこちら
+
+<a href="qol.html">
+QOLページ<br>
+<small>Understanding Changes and Finding Ways to Cope</small>
+</a>
 
 
 
