@@ -237,8 +237,6 @@ A Minimally Invasive Alternative
 <small>Start with Your Current Symptoms</small>
 </a>
 
-<br><br>
-
 <a href="qol.html">
 QOLページ<br>
 <small>Understanding Changes and Finding Ways to Cope</small>
