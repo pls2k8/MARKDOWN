@@ -212,6 +212,9 @@ A Minimally Invasive Alternative
 ---
 
 ## 次に知っておきたいこと
+
+*Finding What Works for You*
+
 これからは年齢による変化も重なり、
 新たな課題も出てくると思いますが、
 これまでの経験から「たいていのことは何とかなる」と思えるようになりました。
