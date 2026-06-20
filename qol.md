@@ -32,7 +32,7 @@ Quality of Life & Life Adaptation
 
 復職・転職・海外勤務について
 
-<a href="qol/work.html">
+<a href="qol/work-reintegration.html">
 ▶ 記事を読む
 </a>
 
@@ -42,7 +42,7 @@ Quality of Life & Life Adaptation
 
 食事・漢方・体調管理について
 
-<a href="qol/nutrition.html">
+<a href="qol/nutrition-health.html">
 ▶ 記事を読む
 </a>
 
@@ -52,7 +52,7 @@ Quality of Life & Life Adaptation
 
 加齢による変化への対応
 
-<a href="qol/southeast-asia.html">
+<a href="qol/aging-qol.html">
 ▶ 記事を読む
 </a>
 
