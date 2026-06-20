@@ -22,7 +22,7 @@ Quality of Life & Life Adaptation
 
 術後の記憶力低下や集中力低下への工夫
 
-<a href="qol/memory.html">
+<a href="qol/memory-concentration.html">
 ▶ 記事を読む
 </a>
 
