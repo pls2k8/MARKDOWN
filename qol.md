@@ -6,28 +6,21 @@ Quality of Life & Life Adaptation
 
 ▼ ご覧になりたい項目をクリックしてください
 
-🧠 記憶・集中力
-Memory & Concentration
-術後の記憶力低下や集中力低下への工夫
-▶ 記事を読む
+## 🧠 記憶・集中力
 
-💼 仕事・社会復帰
-Work & Social Reintegration
-復職・転職・海外勤務について
+<a href="qol/memory.html">
 ▶ 記事を読む
+</a>
 
-🍚 食事と健康管理
-Nutrition & Health Management
-食事・漢方・体調管理について
-▶ 記事を読む
+## 💼 仕事・社会復帰
 
-🌏 東南アジアで学んだこと
-Lessons Learned in Southeast Asia
-外国人病院やQOL重視の医療体験
+<a href="qol/work.html">
 ▶ 記事を読む
+</a>
 
-👴 加齢とQOL
-Aging and Quality of Life
-加齢による変化への対応
+## 🍚 食事と健康管理
+
+<a href="qol/nutrition.html">
 ▶ 記事を読む
+</a>
 
