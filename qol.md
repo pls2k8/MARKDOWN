@@ -18,7 +18,8 @@ Quality of Life & Life Adaptation
 
 ## 🧠 記憶・集中力
 
-<small>Memory & Concentration</small>
+<small>Gradually Realizing Something Was Different
+</small>
 
 術後の記憶力低下や集中力低下への工夫
 
