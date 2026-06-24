@@ -6,6 +6,16 @@ Quality of Life & Life Adaptation
 
 ▼ ご覧になりたい項目をクリックしてください
 
+## 💼 仕事・社会復帰
+
+<small>Work & Social Reintegration</small>
+
+復職・転職・海外勤務について
+
+<a href="qol/work-reintegration.html">
+▶ 記事を読む
+</a>
+
 ## 🌏 東南アジアで学んだこと
 
 <small>Lessons Learned in Southeast Asia</small>
@@ -27,15 +37,7 @@ Quality of Life & Life Adaptation
 ▶ 記事を読む
 </a>
 
-## 💼 仕事・社会復帰
 
-<small>Work & Social Reintegration</small>
-
-復職・転職・海外勤務について
-
-<a href="qol/work-reintegration.html">
-▶ 記事を読む
-</a>
 
 ## 🍚 食事と健康管理
 
