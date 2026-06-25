@@ -26,7 +26,7 @@ title: 記憶・集中力
 ▶ [メモ習慣を始めた理由](memo-habit.md)  
 <small><em>Why I Started Writing Everything Down</em></small>
 
-▶ [夕方に判断ミスが増える理由](evening-errors.md)  
+▶ [夕方に判断ミスが増える理由](evening-mistakes.md)  
 <small><em>Why Mistakes Became More Common in the Evening</em></small>
 
 ---
