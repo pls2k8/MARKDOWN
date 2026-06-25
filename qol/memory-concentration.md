@@ -33,5 +33,7 @@ title: 記憶・集中力
 
 ### 次に読む
 
-👉 [QOLの記事一覧に戻る](qol.md)
+👉 [QOLの記事一覧に戻る](/MARKDOWN/qol.html)
+
+
 
