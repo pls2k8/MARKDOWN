@@ -1,6 +1,6 @@
-# 原因が分からなかった頃
+## 原因が分からなかった頃
 
-## When I Couldn’t Understand What Was Happening
+<small>When I Couldn’t Understand What Was Happening</small>
 
 手術前の私は、約束や予定を忘れることはほとんどありませんでした。
 
