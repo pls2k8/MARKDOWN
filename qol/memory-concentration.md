@@ -20,7 +20,7 @@ title: 記憶・集中力
 ▶ [記憶・集中力の低下に気づくまで](memory-awareness.md)  
 <small><em>Gradually Realizing Something Was Different</em></small>
 
-▶ [疲労と物忘れの関係](fatigue-memory.md)  
+▶ [疲労と物忘れの関係](fatigue-and-memory.md)  
 <small><em>The Hidden Link Between Fatigue and Forgetfulness</em></small>
 
 ▶ [メモ習慣を始めた理由](memo-habit.md)  
