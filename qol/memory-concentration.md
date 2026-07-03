@@ -17,7 +17,7 @@ title: 記憶・集中力
 ▶ [原因が分からなかった頃](cause-unknown.md)  
 <small><em>When I Couldn't Understand What Was Happening</em></small>
 
-▶ [記憶・集中力の低下に気づくまで](memory-awareness.html)  
+▶ [記憶・集中力の低下に気づくまで](memory-awareness.md)  
 <small><em>Gradually Realizing Something Was Different</em></small>
 
 ▶ [疲労と物忘れの関係](fatigue-and-memory.md)  
