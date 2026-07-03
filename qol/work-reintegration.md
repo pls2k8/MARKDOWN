@@ -1,6 +1,6 @@
 # 仕事・社会復帰
 
-## Work & Social Reintegration
+*Work & Social Reintegration*
 
 ## 仕事・社会復帰について
 
