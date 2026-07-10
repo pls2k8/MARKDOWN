@@ -14,6 +14,10 @@ title: 食事と健康管理
 
 ## このページの記事一覧
 
+▶ [便秘は体調悪化のサインだった](constipation-warning.md)  
+<small><em>When Constipation Became My Warning Sign</em></small>
+
+---
 
 ▶ [腸閉塞を経験して学んだ「食べ方」の工夫](bowel-nutrition.md)  
 <small><em>Learning My Safe Portions After Bowel Obstruction
