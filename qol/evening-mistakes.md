@@ -4,6 +4,8 @@
 
 # 朝の血圧と脈拍の変化から、その日の疲労を予測してみる
 
+<small>Estimating your daily fatigue levels from morning changes in blood pressure and pulse.</small>
+
 副腎摘出後は、朝の血圧や脈拍が日によって大きく変化することがあります。
 
 私は現在、起床後から約3時間までの血圧と脈拍を毎日記録し、その変化量と午後の疲労感との関係を観察しています。
