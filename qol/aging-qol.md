@@ -4,7 +4,7 @@ Aging and Quality of Life
 
 # 年齢を重ねても、工夫を重ねる楽しみは続けられる
 
-<small>Growing older doesn't mean the end of creative adaptation; that joy can last a lifetime.</small
+<small>Growing older doesn't mean the end of creative adaptation; that joy can last a lifetime.</small>
 
 病気や加齢によって、趣味や仕事に集中できる時間が少しずつ短くなってしまうことがあります。
 
