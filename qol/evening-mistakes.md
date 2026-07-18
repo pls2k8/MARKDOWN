@@ -2,7 +2,7 @@
 
 <small>Why Mistakes Became More Common in the Evening</small>
 
-# 朝の血圧と脈拍の変化から、その日の疲労を予測してみる
+# 朝の血圧と脈拍の変化から、その日の疲労を予測
 {: #section01 }
 
 <small>Estimating your daily fatigue levels from morning changes in blood pressure and pulse.</small>
