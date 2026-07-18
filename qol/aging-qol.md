@@ -3,10 +3,11 @@
 Aging and Quality of Life
 
 # 年齢を重ねても、工夫を重ねる楽しみは続けられる
+{: #section01 }
 
 <small>Growing older doesn't mean the end of creative adaptation; that joy can last a lifetime.</small>
 
-病気や加齢によって、趣味や仕事に集中できる時間が少しずつ短くなってしまうことがあります。
+病気や加齢に趣味や仕事に集中できる時間が少しずつ短くなってしまうことがあります。
 
 「以前と同じように頑張ろう」と思っても、体力や集中力は少しずつ変化していくため、同じやり方を続けるだけでは難しくなる場面も増えてくるかもしれません。
 
