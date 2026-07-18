@@ -3,6 +3,7 @@
 <small>Why Mistakes Became More Common in the Evening</small>
 
 # 朝の血圧と脈拍の変化から、その日の疲労を予測してみる
+{: #section01 }
 
 <small>Estimating your daily fatigue levels from morning changes in blood pressure and pulse.</small>
 
@@ -29,6 +30,7 @@
 私にとっては、血圧や脈拍の数値だけではなく、このような体や心からのサインも、その日の過ごし方を決める大切な判断材料になっています。
 
 # 夕方の電池切れは、朝から準備すると動き出せる
+{: #section02 }
 
 <small>Let Your Morning Self Help Your Evening Self</small>
 
@@ -65,6 +67,7 @@
 QOLを上げる工夫とは、「もっと頑張る方法」を探すことではなく、頑張らなくても自然に動き出せる流れを作ることなのかもしれません。
 
 # 後日談｜朝に「少しだけ」のつもりが全部終わってしまった
+{: #section03 }
 
 <small>I was trying to help myself later in the day.</small>
 
