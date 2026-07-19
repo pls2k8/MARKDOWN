@@ -3,6 +3,8 @@ layout: default
 title: 診断から治療までの記録
 ---
 
+# 診断から治療までの記録
+
 ## きっかけは健康診断でした
 
 *It All Started with a Routine Checkup*
