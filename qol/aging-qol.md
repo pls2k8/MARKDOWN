@@ -65,7 +65,7 @@ I've also learned that giving myself enough time in the morning is not wasted ti
 
 Life, like flying, doesn't come with an IFR flight plan. We all fly VFR, relying on what we can actually see and understand at each moment. Younger pilots often take pride in overcoming unexpected challenges. Older pilots try to see those challenges earlier, make small corrections before they become big ones, and use the extra margin to enjoy the color of the sky and the rhythm of the air.
 
-Our perception may become less sharp with age, but the variety of things we notice—and the ways we enjoy them—can continue to grow. As long as we remember to keep ourselves in good spirits, I believe we can discover a different, and equally rewarding, way to enjoy the journey.
+Our perception may become less sharp with age, but the variety of things we notice-and the ways we enjoy them-can continue to grow. As long as we remember to keep ourselves in good spirits, I believe we can discover a different, and equally rewarding, way to enjoy the journey.
 
 人生飛行にIFR（計器飛行）はありません。若いころも年老いてからも、私たちは自分の目で空を見て判断するVFR（有視界飛行）を続けています。ただ、総飛行時間を重ねた老パイロットは、若いころとは違う飛び方を身につけています。知覚の精度は少し落ちても、知覚の種類と楽しみ方は増えていきます。早めに気流の変化を感じ取り、無理をせず進路を修正し、その余裕で空の色や季節の移ろいを楽しみながら飛ぶことができます。自分のご機嫌を上手に保ちながら飛び続けることができれば、高齢期には若いころとは違う景色と、違う楽しみ方がきっと見つかるはずです。
 
