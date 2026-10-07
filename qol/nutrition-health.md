@@ -14,7 +14,7 @@ title: 食事と健康管理
 
 ## このページの記事一覧
 
-▶ [起床時に体調不良を予見したときの対処法](difficult day-morning.md)  
+▶ [起床時に体調不良を予見したときの対処法](difficult-morning.md)  
 <small><em>When I Learned to Recognize a Difficult Day Before It Began</em></small>
 
 ---
