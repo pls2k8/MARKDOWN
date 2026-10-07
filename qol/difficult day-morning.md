@@ -1,7 +1,6 @@
 ## 起床時に体調不良を予見したときの対処法
 
-<small>*When I Learned to Recognize a Difficult Day Before It Began*
-</small>
+<small>When I Learned to Recognize a Difficult Day Before It Began</small>
 
 朝、目を覚ましたときに「今日は明らかに睡眠が足りない」「身体が重い」と感じることがあります。
 
