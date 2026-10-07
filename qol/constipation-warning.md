@@ -1,3 +1,6 @@
+、いくつかの前兆があるように感じています。
+
+その中でも、私にとって最もわかりやすいサインが、**便通のリズムの変化**です。
 ## 便秘は体調悪化のサインだった
 
 <small>When Constipation Became My Warning Sign</small>
