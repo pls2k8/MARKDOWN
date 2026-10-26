@@ -5,7 +5,7 @@ When I Learned to Recognize a Difficult Day Before It Began
 # 体調不良の自覚がある日は「低出力の日」と決めてしまう
 {: #section03 }
 
-small>When I'm not feeling well, I just decide it’s a 'low-power day'."</small>
+<small>When I'm not feeling well, I just decide it’s a 'low-power day'."</small>
 
 朝、目を覚ましたときに「今日は明らかに睡眠が足りない」「身体が重い」と感じることがあります。
 
