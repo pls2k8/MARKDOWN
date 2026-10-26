@@ -3,7 +3,7 @@
 When I Learned to Recognize a Difficult Day Before It Began
 
 # 体調不良の自覚がある日は「低出力の日」と決めてしまう
-{: #section03 }
+{: #section01 }
 
 <small>When I'm not feeling well, I just decide it’s a 'low-power day'."</small>
 
