@@ -3,7 +3,7 @@ layout: default
 title: ホーム
 ---
 
-# 副腎摘出後の体験と回復の記録
+# 褐色細胞腫、副腎摘出後の体験と回復の記録
 #### Adrenalectomy Recovery
 
 ---
