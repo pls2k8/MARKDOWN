@@ -1,4 +1,5 @@
 ## 残っている副腎に脂肪を含む腫瘍が認められ、検査間隔が半年ごとになった
+{: #section01 }
 
 *Not Necessarily Worse, but Worth Watching Closely*
 
