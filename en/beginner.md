@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "My Pheochromocytoma Journey"
-permalink: /MARKDOWN/en/beginner.md.html
+permalink: /MARKDOWN/en/beginner.html
 ---
 
 
