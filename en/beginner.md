@@ -1,14 +1,9 @@
 ---
 layout: page
 title: "My Pheochromocytoma Journey"
-permalink: /MARKDOWN/en/diagnosis.html
+permalink: /MARKDOWN/en/beginner.md.html
 ---
 
----
-layout: page
-title: "My Pheochromocytoma Journey: From Diagnosis to Treatment"
-permalink: /MARKDOWN/en/diagnosis.html
----
 
 # My Pheochromocytoma Journey: From Diagnosis to Treatment
 
