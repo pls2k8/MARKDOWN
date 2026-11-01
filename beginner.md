@@ -7,7 +7,7 @@ title: 診断（褐色細胞腫）から治療までの記録
 
 ## きっかけは健康診断でした
 
-<a href="en/diagnosis.html">
+<a href="en/beginner.md.html">
   <em>It All Started with a Routine Checkup</em>
 </a>
 
