@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Symptoms and Practical Ideas
-permalink: /MARKDOWN/en/symptoms.html
+layout: page
+title: "My Pheochromocytoma Journey"
+permalink: /MARKDOWN/en/beginner.html
 ---
 
 
