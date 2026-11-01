@@ -213,3 +213,4 @@ Quality of Life
 <small>Understanding Changes and Finding Ways to Cope</small>
 </a>
 
+<!-- English version -->
