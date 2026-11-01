@@ -207,7 +207,7 @@ Symptoms
 <small>Start with Your Current Symptoms</small>
 </a>
 
-<a href="<a href="/MARKDOWN/en/qol.html">">
+<a href="MARKDOWN/en/qol.html">">
 Quality of Life
 <br>
 <small>Understanding Changes and Finding Ways to Cope</small>
