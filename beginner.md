@@ -7,7 +7,9 @@ title: 診断（褐色細胞腫）から治療までの記録
 
 ## きっかけは健康診断でした
 
-*It All Started with a Routine Checkup*
+<a href="en/diagnosis.html">
+  <em>It All Started with a Routine Checkup</em>
+</a>
 
 約20年前、36歳のときでした。
 
