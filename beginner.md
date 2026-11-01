@@ -7,9 +7,11 @@ title: 診断（褐色細胞腫）から治療までの記録
 
 ## きっかけは健康診断でした
 
-<a href="/MARKDOWN/en/beginner.html">
-  English Version
-</a>
+<p>
+  <a href="/MARKDOWN/MARKDOWN/en/beginner.html">
+    English Version → My Pheochromocytoma Journey: From Diagnosis to Treatment
+  </a>
+</p>
 
 約20年前、36歳のときでした。
 
