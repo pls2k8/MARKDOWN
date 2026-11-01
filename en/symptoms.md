@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Symptoms and Practical Ideas
+permalink: /MARKDOWN/en/symptoms.html
 ---
 
 # For Those Experiencing Difficult Symptoms
@@ -207,3 +208,4 @@ These are not major measures, but sometimes they help prevent things from gettin
 </div>
 
 </section>
+
