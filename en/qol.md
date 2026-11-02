@@ -45,8 +45,8 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 ▶ Read the article
 </a>
 
-<small>Gradually Realizing Something Was Different</small>
-<a href="/MARKDOWN/en/memory-awareness.html"><br>
+<small>Estimating your daily fatigue levels from morning changes in blood pressure and pulse.</small>
+<a href="/MARKDOWN/en/evening-mistakes.html"><br>
 ▶ Read the article
 </a>
 
