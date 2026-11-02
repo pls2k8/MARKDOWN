@@ -34,7 +34,7 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 
 Practical ways to cope with changes in memory and concentration after surgery
 
-<a href="qol/memory-concentration.html">
+<a href="/MARKDOWN/en/memory-concentration.html">
 ▶ Read the article
 </a>
 
