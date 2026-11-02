@@ -35,8 +35,8 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 ▶ Read the article
 </a>
 
-<small>Gradually Realizing Something Was Different</small>
-<a href="/MARKDOWN/en/memory-awareness.html"><br>
+<small>The Hidden Link Between Fatigue and Forgetfulness</small>
+<a href="/MARKDOWN/en/memo-habit.html"><br>
 ▶ Read the article
 </a>
 
