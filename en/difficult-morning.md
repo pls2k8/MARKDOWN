@@ -1,5 +1,5 @@
 
-# How I Respond When I Sense I May Be Unwell on Waking
+# How I Respond When I Sense I May Be Bowel on Waking
 
 *When I Learned to Recognize a Difficult Day Before It Began*
 
