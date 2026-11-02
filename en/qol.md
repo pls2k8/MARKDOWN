@@ -38,7 +38,7 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 
 <small>Gradually Realizing Something Was Different</small>
 
-<a href="/MARKDOWN/en/memory-concentration.html">
+<a href="/MARKDOWN/en/memory-awareness.html">
 ▶ Read the article
 </a>
 
