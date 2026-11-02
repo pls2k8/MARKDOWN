@@ -31,12 +31,12 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 ## 🧠 Memory & Concentration
 
 <small>When I Couldn’t Understand What Was Happening</small>
-<a href="/MARKDOWN/en/memory-concentration.html">
+<a href="/MARKDOWN/en/memory-concentration.html"><br>
 ▶ Read the article
 </a>
 
 <small>Gradually Realizing Something Was Different</small>
-<a href="/MARKDOWN/en/memory-awareness.html">
+<a href="/MARKDOWN/en/memory-awareness.html"><br>
 ▶ Read the article
 </a>
 
