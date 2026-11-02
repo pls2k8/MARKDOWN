@@ -30,13 +30,18 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 
 ## 🧠 Memory & Concentration
 
-<small>Gradually Realizing Something Was Different</small>
-
-Practical ways to cope with changes in memory and concentration after surgery
+<small>When I Couldn’t Understand What Was Happening</small>
 
 <a href="/MARKDOWN/en/memory-concentration.html">
 ▶ Read the article
 </a>
+
+<small>Gradually Realizing Something Was Different</small>
+
+<a href="/MARKDOWN/en/memory-concentration.html">
+▶ Read the article
+</a>
+
 
 ## 🍚 Nutrition & Health Management
 
