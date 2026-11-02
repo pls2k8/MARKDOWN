@@ -53,11 +53,18 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 
 ## 🍚 Nutrition & Health Management
 
-<small>Nutrition & Health Management</small>
+<small>When I Learned to Recognize a Difficult Day Before It Began</small>
+<a href="/MARKDOWN/en/difficult-morning.html"><br>
+▶ Read the article
+</a>
 
-Diet, traditional herbal medicine, and monitoring my physical condition
+<small>When Constipation Became My Warning Sign</small>
+<a href="/MARKDOWN/en/costipation-warning.html"><br>
+▶ Read the article
+</a>
 
-<a href="qol/nutrition-health.html">
+<small>Learning My Safe Portions After Bowel Obstruction</small>
+<a href="/MARKDOWN/en/bowel-nutrition.html"><br>
 ▶ Read the article
 </a>
 
