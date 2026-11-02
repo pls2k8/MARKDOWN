@@ -45,6 +45,11 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 ▶ Read the article
 </a>
 
+<small>Gradually Realizing Something Was Different</small>
+<a href="/MARKDOWN/en/memory-awareness.html"><br>
+▶ Read the article
+</a>
+
 
 ## 🍚 Nutrition & Health Management
 
