@@ -14,7 +14,7 @@ permalink: /MARKDOWN/en/qol.html
 
 Returning to work, changing careers, and working overseas
 
-<a href="en/work-reintegration.html">
+<a href="/MARKDOWN/en/work-reintegration.html">
 ▶ Read the article
 </a>
 
