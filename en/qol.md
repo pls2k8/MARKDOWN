@@ -59,7 +59,7 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 </a>
 
 <small>When Constipation Became My Warning Sign</small>
-<a href="/MARKDOWN/en/constipation-warning.html"><br>
+<a href="/MARKDOWN/en/costipation-warning.html"><br>
 ▶ Read the article
 </a>
 
