@@ -13,7 +13,7 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ## 脂肪を含む良性腫瘍とは？
 
-- <a href="benign-top.html">No.01 脂肪を含む良性腫瘍とは？</a>
+- <a href="https://pls2k8.github.io/MARKDOWN/20years/benign-top.html)">No.01 脂肪を含む良性腫瘍とは？</a>
 - <a href="#section02">No.02 ーーー</a>
 - <a href="#section03">No.03 ーーー</a>
 
