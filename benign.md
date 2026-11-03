@@ -29,7 +29,7 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ## 良性維持のための情報
 
-- <a href="#section08">No.07 ーーー</a>
+- <a href="benign-top.html">No.07 脂肪を含む良性腫瘍とは？</a>
 - <a href="#section09">No.08 ーーー</a>
 - <a href="#section10">No.09 ーーー</a>
 
