@@ -35,8 +35,8 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ## 悪性腫瘍の定義
 
-- <a href="/MARKDOWN/20years/malignant-one.html">
-  　悪性腫瘍の定義とは？
+<a href="/MARKDOWN/20years/malignant-one.html">
+  悪性腫瘍の定義とは？
   <br>
   <small>What Is the Definition of a Malignant Tumor?</small>
   </a>
@@ -48,8 +48,8 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ## 残っている副腎の腫瘍が悪性と判明した場合、QOLを最優先に考えた選択肢
 
-- <a href="/MARKDOWN/20years/choices.html">
-  　QOLを重視した治療方針の検討
+<a href="/MARKDOWN/20years/choices.html">
+  QOLを重視した治療方針の検討
   <br>
   <small>Considering Treatment Options with Quality of Life in Mind</small>
   </a>
