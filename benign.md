@@ -25,7 +25,11 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
   <small>Does a Benign Tumor Need to Be Monitored?</small>
   </a>
 
-- <a href="#section03">No.03 ーーー</a>
+<a href="/MARKDOWN/20years/keep-benign.html">
+  No.03　良性腫瘍と向き合うために、日常生活で心掛けたいこと
+  <br>
+  <small>Living Well While Monitoring a Benign Tumor</small>
+  </a>
 
 ---
 
