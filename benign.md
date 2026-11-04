@@ -23,7 +23,7 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
   良性なら、放置してもよいのか？
   <br>
   <small>Does a Benign Tumor Need to Be Monitored?</small>
-</a>
+ </a>
 
 - <a href="#section03">No.03 ーーー</a>
 
