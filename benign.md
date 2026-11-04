@@ -17,8 +17,8 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
   No.01 脂肪を含む良性腫瘍とは？
   <br>
   <small>What Is a Benign Fat-Containing Tumor?</small>
+  </a>
   
-</a>
 <a href="/MARKDOWN/20years/need-monitored.html">
   良性なら、放置してもよいのか？
   <br>
