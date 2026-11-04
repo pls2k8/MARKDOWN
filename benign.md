@@ -14,19 +14,19 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 ## 脂肪を含む良性腫瘍とは？
 
 <a href="/MARKDOWN/20years/benign-top.html">
-  No.01 脂肪を含む良性腫瘍とは？
+  脂肪を含む良性腫瘍とは？
   <br>
   <small>What Is a Benign Fat-Containing Tumor?</small>
   </a>
 
 <a href="/MARKDOWN/20years/need-monitored.html">
-  No.02　良性なら、放置してもよいのか？
+  良性なら、放置してもよいのか？
   <br>
   <small>Does a Benign Tumor Need to Be Monitored?</small>
   </a>
 
 <a href="/MARKDOWN/20years/keep-benign.html">
-  No.03　良性腫瘍と向き合うために、日常生活で心掛けたいこと
+  良性腫瘍と向き合うために、日常生活で心掛けたいこと
   <br>
   <small>Living Well While Monitoring a Benign Tumor</small>
   </a>
@@ -36,11 +36,11 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 ## 悪性腫瘍の定義
 
 - <a href="/MARKDOWN/20years/malignant-one.html">
-  No.04　悪性腫瘍の定義とは？
+  　悪性腫瘍の定義とは？
   <br>
   <small>What Is the Definition of a Malignant Tumor?</small>
   </a>
-  
+
 - <a href="#section05">No.05 ーーー</a>
 - <a href="#section06">No.06 ーーー</a>
 
@@ -49,7 +49,7 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 ## 残っている副腎の腫瘍が悪性と判明した場合、QOLを最優先に考えた選択肢
 
 - <a href="/MARKDOWN/20years/choices.html">
-  No.07　QOLを重視した治療方針の検討
+  　QOLを重視した治療方針の検討
   <br>
   <small>Considering Treatment Options with Quality of Life in Mind</small>
   </a>
