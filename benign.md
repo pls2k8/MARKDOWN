@@ -41,9 +41,14 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ---
 
-## 良性維持のための情報
+## 残っている副腎の腫瘍が悪性と判明した場合、QOLを最優先に考えた選択肢
 
-- <a href="#section07">No.07 ーーー</a>
+- <a href="/MARKDOWN/20years/choices.html">
+  No.03　QOLを重視した治療方針の検討
+  <br>
+  <small>Considering Treatment Options with Quality of Life in Mind</small>
+  </a>
+
 - <a href="#section09">No.08 ーーー</a>
 - <a href="#section10">No.09 ーーー</a>
 
