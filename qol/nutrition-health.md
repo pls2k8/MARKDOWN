@@ -30,6 +30,12 @@ title: 食事と健康管理
 
 ---
 
+▶ [既往病があっても、気楽に健康を維持するための工夫](bowel-nutrition.md)  
+<small><em>How to maintain good health over the long term
+</em></small>
+
+---
+
 ### 次に読む
 
 👉 [QOLの記事一覧に戻る](/MARKDOWN/qol.html)
