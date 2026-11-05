@@ -30,7 +30,7 @@ title: 食事と健康管理
 
 ---
 
-▶ [既往病があっても、気楽に健康を維持するための工夫](bowel-nutrition.md)  
+▶ [既往病があっても、気楽に健康を維持するための工夫](maintain-long.md)  
 <small><em>How to maintain good health over the long term
 </em></small>
 
