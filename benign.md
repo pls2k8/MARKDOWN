@@ -88,7 +88,7 @@ function checkPassword(event, targetUrl) {
 
 - <h2>読み物と資料</h2>
 
-<a href="/MARKDOWN/reading-item/neil-young.html"
+<a href="/MARKDOWN/qol/reading-item/neil-young.html"
    onclick="return checkPassword(event, this.href);">
   Neil Young『Waging Heavy Peace』に描かれた、音楽と仲間たちの熱狂
   <br>
