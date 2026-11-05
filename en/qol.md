@@ -69,7 +69,7 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 </a>
 
 <small>Practical Ways to Maintain Your Health Without Being Too Strict</small>
-<a href="/markdown/en/maintain-long.html"><br>
+<a href="/MARKDOWN/en/maintain-long.html"><br>
 ▶ Read the article
 </a>
 
