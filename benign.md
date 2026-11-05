@@ -84,9 +84,32 @@ function checkPassword(event, targetUrl) {
 
 ---
 
-## 【その他】
+## 【読み物、資料】
 
-- <a href="#section14">No.13ーーー</a>
+- <h2>読み物と資料</h2>
+
+<a href="/MARKDOWN/reading-item/neil-young.html"
+   onclick="return checkPassword(event, this.href);">
+  Neil Young『Waging Heavy Peace』に描かれた、音楽と仲間たちの熱狂
+  <br>
+  <small>Waging heavy peace,The enthusiasm of music and friends</small>
+</a>
+
+<script>
+function checkPassword(event, targetUrl) {
+  event.preventDefault();
+
+  const password = prompt("パスワードを入力してください");
+
+  if (password === "1234") {
+    window.location.href = targetUrl;
+  } else if (password !== null) {
+    alert("パスワードが違います");
+  }
+
+  return false;
+}
+</script>
 - <a href="#section15">No.14ーーー</a>
 - <a href="#section16">No.15ーーー</a>
 - <a href="#section17">No.16ーーー</a>
