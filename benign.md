@@ -18,7 +18,7 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
   <br>
   <small>What Is a Benign Fat-Containing Tumor?</small>
   </a>
-
+#
 <a href="/MARKDOWN/20years/need-monitored.html">
   良性なら、放置してもよいのか？
   <br>
@@ -33,13 +33,30 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ---
 
-## 悪性腫瘍の定義
+<h2>悪性腫瘍の定義</h2>
 
-<a href="/MARKDOWN/20years/malignant-one.html">
+<a href="/MARKDOWN/20years/malignant-one.html"
+   onclick="return checkPassword(event, this.href);">
   悪性腫瘍の定義とは？
   <br>
   <small>What Is the Definition of a Malignant Tumor?</small>
-  </a>
+</a>
+
+<script>
+function checkPassword(event, targetUrl) {
+  event.preventDefault();
+
+  const password = prompt("パスワードを入力してください");
+
+  if (password === "1234") {
+    window.location.href = targetUrl;
+  } else if (password !== null) {
+    alert("パスワードが違います");
+  }
+
+  return false;
+}
+</script>
 
 - <a href="#section05">No.05 ーーー</a>
 - <a href="#section06">No.06 ーーー</a>
