@@ -92,7 +92,7 @@ function checkPassword(event, targetUrl) {
    onclick="return checkPassword(event, this.href);">
   Neil Young『Waging Heavy Peace』に描かれた、音楽と仲間たちの熱狂
   <br>
-  <small>Waging heavy peace,The enthusiasm of music and friends</small>
+  <small>Waging Heavy Peace, The enthusiasm of music and friends</small>
 </a>
 
 <script>
