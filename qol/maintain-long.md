@@ -1,7 +1,7 @@
 # 既往病があっても、気楽に健康を維持するための工夫
 {: #section01 }
 
-<small>How to maintain good health over the long term.</small>
+<small>Maintaining Quality of Life Without Being Too Strict.</small>
 
 過去に大きな病気を経験したり、現在も経過観察や健康管理が必要な状態にあると、日々の体調や生活習慣に神経質になりがちです。
 
