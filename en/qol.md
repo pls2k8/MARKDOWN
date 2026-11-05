@@ -68,6 +68,11 @@ Experiences with overseas hospitals and healthcare that prioritizes quality of l
 ▶ Read the article
 </a>
 
+<small>Practical Ways to Maintain Your Health Without Being Too Strict</small>
+<a href="/MARKDOWN/en/maintain-long.html"><br>
+▶ Read the article
+</a>
+
 ## 👴 Aging & Quality of Life
 
 <small>Aging and Quality of Life</small>
