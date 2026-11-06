@@ -17,7 +17,7 @@
   <!-- 01 My Medical Journey -->
 
   
-<section class="guide-section">
+<section class="english-articles">
 
   <h2>01. My Medical Journey</h2>
 
@@ -27,7 +27,7 @@
      class="english-link">
 
     <strong>▶ Before Diagnosis</strong>
-    
+
      <p>
       Early signs and the discovery of an adrenal tumor.
      </p>
