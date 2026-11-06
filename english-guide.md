@@ -27,6 +27,7 @@
      class="english-link">
 
     <strong>▶ Before Diagnosis</strong>
+    
      <p>
       Early signs and the discovery of an adrenal tumor.
      </p>
