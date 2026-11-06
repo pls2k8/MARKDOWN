@@ -16,38 +16,44 @@
 
   <!-- 01 My Medical Journey -->
 
-  <section class="guide-section">
+  
+<section class="guide-section">
 
-    <h2>01. My Medical Journey</h2>
+  <h2>01. My Medical Journey</h2>
 
-    <a href="/MARKDOWN/en/before-diagnosis.html"
-       class="english-link">
+  <!-- 記事 1 -->
 
-      <strong>▶ Before Diagnosis</strong>
+  <a href="/MARKDOWN/en/before-diagnosis.html"
+     class="english-link">
 
-      <p>
-        Early signs and the discovery of an adrenal tumor.
-      </p>
+    <strong>▶ Before Diagnosis</strong>
 
-      <span>Read the article →</span>
+    <p>
+      Early signs and the discovery of an adrenal tumor.
+    </p>
 
-    </a>
+    <span>Read the article →</span>
+
+  </a>
 
 
-    <a href="/MARKDOWN/en/surgery.html"
-       class="english-link">
+  <!-- 記事 2 -->
 
-      <strong>▶ Surgery and Hospitalization</strong>
+  <a href="/MARKDOWN/en/surgery.html"
+     class="english-link">
 
-      <p>
-        My experience of surgery and recovery in hospital.
-      </p>
+    <strong>▶ Surgery and Hospitalization</strong>
 
-      <span>Read the article →</span>
+    <p>
+      My experience of surgery and recovery in hospital.
+    </p>
 
-    </a>
+    <span>Read the article →</span>
 
-  </section>
+  </a>
+
+</section>
+
 
   <!-- セクション区切り線 -->
 
