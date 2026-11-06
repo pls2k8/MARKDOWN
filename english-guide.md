@@ -31,7 +31,6 @@
     <p>
       Early signs and the discovery of an adrenal tumor.
     </p>
-
     <span>Read the article →</span>
 
   </a>
