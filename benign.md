@@ -86,12 +86,10 @@ function checkPassword(event, targetUrl) {
 
 ## 【資料】
 
-
-
 <a href="/MARKDOWN/reading-item/neil-young.html"
    onclick="return checkPassword(event, this.href);">
-  
-</a>
+  <small>→→→</small>
+ </a>
 
 <script>
 function checkPassword(event, targetUrl) {
