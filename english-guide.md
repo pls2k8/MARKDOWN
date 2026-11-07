@@ -59,6 +59,21 @@
 
   <hr class="guide-divider">
 
+  <h2>01. Start with Your Current Symptoms</h2>
+
+<a href="/MARKDOWN/en/english-symptoms.html"
+   class="english-link">
+
+  <strong>▶ Each Symptoms</strong>
+
+  <p>
+    The changes felt in the prognosis.
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
+
 <h2>02. Understanding Changes and Finding Ways to Cope</h2>
 
 <a href="/MARKDOWN/en/qol.html"
