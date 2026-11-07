@@ -1,5 +1,13 @@
 ## Choosing to Undergo Adrenalectomy
 
+
+<!-- この位置に写真を配置 -->
+<img
+  src="IMG_0424.jpg.jpg"
+  alt="Adrenalectomy surgery"
+  class="article-photo"
+>
+
 *A Proven but More Invasive Approach or a Minimally Invasive Alternative*
 
 I was presented with two main surgical options: a well-established procedure that involved a greater physical burden, and laparoscopic surgery, which was still relatively new at the time.
