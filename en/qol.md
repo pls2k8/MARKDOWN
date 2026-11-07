@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Understanding Changes and Finding Way to Cope"
-permalink: /MARKDOWN/en/qol.html
+title: Understanding Changes and Finding Ways to Cope
+permalink: /en/qol.html
 ---
 
 # Quality of Life & Practical Ways to Adapt
