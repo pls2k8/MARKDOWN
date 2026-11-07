@@ -59,15 +59,15 @@
 
   <hr class="guide-divider">
 
-<h2>01. My Medical Journey</h2>
+<h2>01. Start with Your Current Symptoms</h2>
 
-<a href="/MARKDOWN/en/before-diagnosis.html"
+<a href="/MARKDOWN/en/english-symptoms.html"
    class="english-link">
 
-  <strong>▶ Before Diagnosis</strong>
+  <strong>▶ Each Symptoms</strong>
 
   <p>
-    Early signs and the discovery of an adrenal tumor.
+    The prognosis felt in the symotoms.
   </p>
 
   <span>Read the article →</span>
