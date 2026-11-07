@@ -62,7 +62,7 @@
 </div>
 <header class="english-header">
 
-  <h1>English Guide</h1>
+  <h2>English Guide</h2>
 
   <p>
     Explore personal experiences, medical journeys
