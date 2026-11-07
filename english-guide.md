@@ -59,15 +59,15 @@
 
   <hr class="guide-divider">
 
-<h2>01. Start with Your Current Symptoms</h2>
+<h2>02. Understanding Changes and Finding Ways to Cope</h2>
 
-<a href="/MARKDOWN/en/english-symptoms.html"
+<a href="/MARKDOWN/en/qol.html"
    class="english-link">
 
-  <strong>▶ Each Symptoms</strong>
+  <strong>▶ Maintain Your QOL</strong>
 
   <p>
-    The prognosis felt in the symotoms.
+    Simple tips to maintain my QOL every day.
   </p>
 
   <span>Read the article →</span>
