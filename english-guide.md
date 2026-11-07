@@ -76,7 +76,7 @@
 
 <h2>02. Understanding Changes and Finding Ways to Cope</h2>
 
-<a href="/MARKDOWN/en/n-qol.md"
+<a href="/MARKDOWN/en/n-qol.html"
    class="english-link">
 
   <strong>▶ Maintain Your QOL</strong>
