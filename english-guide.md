@@ -60,16 +60,6 @@
   <hr class="guide-divider">
 
 </div>
-<header class="english-header">
-
-  <h2>English Guide</h2>
-
-  <p>
-    Explore personal experiences, medical journeys
-    and ideas for better quality of life.
-  </p>
-
-</header>
 
 <hr class="english-divider">
 
