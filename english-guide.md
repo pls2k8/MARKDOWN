@@ -59,10 +59,6 @@
 
   <hr class="guide-divider">
 
-</div>
-
-<hr class="english-divider">
-
 <h2>01. My Medical Journey</h2>
 
 <a href="/MARKDOWN/en/before-diagnosis.html"
