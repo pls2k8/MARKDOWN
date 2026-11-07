@@ -37,46 +37,53 @@
   </div>
 
 
-  <!-- 記事 2 -->
-  <div class="english-link">
+ <!-- 記事：手術と入院 -->
 
-    <a href="/MARKDOWN/en/surgery.html">
-      <strong>▶ Surgery and Hospitalization</strong>
-    </a>
+<div class="english-link">
 
-    <p>
-      My experience of surgery and recovery in hospital.
-    </p>
+  <a href="/MARKDOWN/en/surgery.html">
+    <strong>▶ Surgery and Hospitalization</strong>
+  </a>
 
-    <a href="/MARKDOWN/en/surgery.html">
-      Read the article →
-    </a>
+  <p>
+    My experience of surgery and recovery in hospital.
+  </p>
 
-  </div>
+  <a href="/MARKDOWN/en/surgery.html">
+    Read the article →
+  </a>
+
+</div>
 
 
-  <!-- セクション区切り線 -->
+<!-- セクション区切り線 -->
 
-  <hr class="guide-divider">
+<hr class="guide-divider">
 
-  <h2>01. Start with Your Current Symptoms</h2>
+
+<!-- 01. 症状について -->
+
+<h2>01. Start with Your Current Symptoms</h2>
 
 <a href="/MARKDOWN/en/english-symptoms.html"
    class="english-link">
 
-  <strong>▶ Each Symptoms</strong>
+  <strong>▶ Explore Symptoms</strong>
 
   <p>
-    The changes felt in the prognosis.
+    Explore the changes and symptoms you may be experiencing.
   </p>
 
   <span>Read the article →</span>
 
 </a>
 
+
+<!-- 02. QOLについて -->
+
 <h2>02. Understanding Changes and Finding Ways to Cope</h2>
 
-<a href="/MARKDOWN/en/n-qol.html"
+<a href="/MARKDOWN/en/qol.html"
    class="english-link">
 
   <strong>▶ Maintain Your QOL</strong>
@@ -88,6 +95,5 @@
   <span>Read the article →</span>
 
 </a>
-
 
 
