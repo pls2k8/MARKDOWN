@@ -115,6 +115,19 @@
 
 <h2>03.  Identified in the remaining adrenal gland 20 years after adrenalectomy.</h2>
 
+<a href="/MARKDOWN/en/calmly-do.html"
+   class="english-link">
+
+  <strong>▶ Malignant tumor?</strong>
+
+  <p>
+    There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
+
 <a href="/MARKDOWN/en/treatment-options.html"
    class="english-link">
 
