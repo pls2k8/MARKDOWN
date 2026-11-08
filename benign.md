@@ -78,7 +78,12 @@ function checkPassword(event, targetUrl) {
 
 ## 【悪性化した際の選択肢】
 
-- <a href="#section11">No.10 ーーー</a>
+<a href="/MARKDOWN/20years/treatment-option.html">
+ すでに片側の副腎を摘出して状況下で、残された副腎に腫瘍が生じた場合
+  <br>
+  <small>Tumor development in the remaining adrenal gland following contralateral adrenalectomy</small>
+  </a>
+
 - <a href="#section12">No.11 ーーー</a>
 - <a href="#section13">No.12 ーーー</a>
 
