@@ -111,4 +111,20 @@
 
 </a>
 
+<!-- 03. 20年後>
+
+<h2>03.  Identified in the remaining adrenal gland 20 years after adrenalectomy.</h2>
+
+<a href="/MARKDOWN/en/treatment-option.html"
+   class="english-link">
+
+  <strong>▶ Future direction</strong>
+
+  <p>
+    Tumor development in the remaining adrenal gland following contralateral adrenalectomy
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
 
