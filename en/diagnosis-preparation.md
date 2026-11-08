@@ -3,7 +3,7 @@
 
 <!-- この位置に写真を配置 -->
 <img
-  src="IMG_0424.jpg.jpg"
+  src="IMG_0424.jpg"
   alt="Adrenalectomy surgery"
   class="article-photo"
 >
