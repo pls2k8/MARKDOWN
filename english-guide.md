@@ -126,8 +126,6 @@
 
   <span>Read the article →</span>
 
-</a>
-
 <a href="/MARKDOWN/en/definition-mt.html"
    class="english-link">
 
