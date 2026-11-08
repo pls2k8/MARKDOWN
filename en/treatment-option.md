@@ -1,6 +1,6 @@
-# After Contralateral Adrenalectomy
+# When a Tumor Develops in the Only Remaining Adrenal Gland After Contralateral Adrenalectomy
 
-umor development in the remaining adrenal gland following contralateral adrenalectomy.
+Tumor development in the remaining adrenal gland following contralateral adrenalectomy.
 
 The challenge in this situation is how to balance life expectancy and quality of life (QOL) when a tumor develops in the only remaining adrenal gland after the opposite adrenal gland has already been removed.
 
