@@ -78,7 +78,7 @@ function checkPassword(event, targetUrl) {
 
 ## 【悪性化した際の選択肢】
 
-<a href="/MARKDOWN/20years/treatment-option.html">
+<a href="/MARKDOWN/20years/just-as.html">
  もう一つの副腎に腫瘍が生じた
   <br>
   <small>Tumor development in the remaining adrenal gland following contralateral adrenalectomy</small>
