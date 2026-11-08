@@ -1,10 +1,12 @@
 ## Choosing to Undergo Adrenalectomy
 
+
 <img
-  src="IMG_0424.jpg"
+  src="/MARKDOWN/en/IMG_0424.jpg"
   alt="Adrenalectomy surgery"
   class="article-photo"
 >
+
 
 *A Proven but More Invasive Approach or a Minimally Invasive Alternative*
 
