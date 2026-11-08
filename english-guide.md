@@ -115,40 +115,57 @@
 
 <h2>03.  Identified in the remaining adrenal gland 20 years after adrenalectomy.</h2>
 
-<a href="/MARKDOWN/en/calmly-do.html"
-   class="english-link">
 
-  <strong>▶ Malignant tumor?</strong>
+<div class="english-link-list">
 
-  <p>
-    There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
-  </p>
+  <!-- 01 Malignant tumor -->
 
-  <span>Read the article →</span>
+  <a href="/MARKDOWN/en/calmly-do.html"
+     class="english-link">
 
-<a href="/MARKDOWN/en/definition-mt.html"
-   class="english-link">
+    <strong>▶ Malignant tumor?</strong>
 
-  <strong>▶ definition of malignant tumor?</strong>
+    <p>
+      There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
+    </p>
 
-  <p>
-    A malignant tumor is a type of tumor commonly referred to as cancer. It has the ability to grow by invading surrounding normal tissues and may spread to distant organs through the bloodstream or lymphatic system. This process is known as metastasis.
-  </p>
+    <span>Read the article →</span>
 
-  <span>Read the article →</span>
+  </a>
 
-</a>
 
-<a href="/MARKDOWN/en/treatment-options.html"
-   class="english-link">
+  <!-- 02 Definition -->
 
-  <strong>▶ Future direction</strong>
+  <a href="/MARKDOWN/en/definition-mt.html"
+     class="english-link">
 
-  <p>
-    Tumor development in the remaining adrenal gland following contralateral adrenalectomy
-  </p>
+    <strong>▶ Definition of a malignant tumor</strong>
 
-  <span>Read the article →</span>
+    <p>
+      A malignant tumor is commonly referred to as cancer. It can invade surrounding tissues and may spread to distant organs through the bloodstream or lymphatic system. This process is known as metastasis.
+    </p>
 
-</a>
+    <span>Read the article →</span>
+
+  </a>
+
+
+  <!-- 03 Future direction -->
+
+  <a href="/MARKDOWN/en/treatment-options.html"
+     class="english-link">
+
+    <strong>▶ Future direction</strong>
+
+    <p>
+      Tumor development in the remaining adrenal gland following contralateral adrenalectomy.
+    </p>
+
+    <span>Read the article →</span>
+
+  </a>
+
+</div>
+
+
 
