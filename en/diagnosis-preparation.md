@@ -1,9 +1,5 @@
 ## Choosing to Undergo Adrenalectomy
 
-
-<!-- この位置に写真を配置 -->
-## Choosing to Undergo Adrenalectomy
-
 <img
   src="IMG_0424.jpg"
   alt="Adrenalectomy surgery"
