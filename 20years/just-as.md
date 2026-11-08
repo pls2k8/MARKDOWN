@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Treatment Options"
-permalink: /MARKDOWN/20years/treatment-options.html
+permalink: /MARKDOWN/20years/just-as.html
 ---
 
 ## すでに片側の副腎を摘出して状況下で、残された副腎に腫瘍が生じた
