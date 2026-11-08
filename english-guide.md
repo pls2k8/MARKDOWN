@@ -115,7 +115,7 @@
 
 <h2>03.  Identified in the remaining adrenal gland 20 years after adrenalectomy.</h2>
 
-<a href="/MARKDOWN/en/treatment-option.html"
+<a href="/MARKDOWN/en/treatment-options.html"
    class="english-link">
 
   <strong>▶ Future direction</strong>
