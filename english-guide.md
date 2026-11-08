@@ -36,6 +36,21 @@
 
   </div>
 
+<div class="english-link">
+
+    <a href="/MARKDOWN/en/diagnosis-preparation.html">
+      <strong>▶Choose surgical approaches</strong>
+    </a>
+
+    <p>
+      A Proven but More Invasive Approach or a Minimally Invasive Alternative.
+    </p>
+
+    <a href="/MARKDOWN/en/diagnosis-preparation.html">
+      Read the article →
+    </a>
+
+  </div>
 
  <!-- 記事：手術と入院 -->
 
