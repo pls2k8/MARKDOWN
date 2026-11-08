@@ -1,4 +1,4 @@
-## すでに片側の副腎を摘出して状況下で、残された副腎に腫瘍が生じた場合
+## すでに片側の副腎を摘出して状況下で、残された副腎に腫瘍が生じた
 
 <small>Tumor development in the remaining adrenal gland following contralateral adrenalectomy</small>
 
