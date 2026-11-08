@@ -115,9 +115,6 @@
 
 <h2>03.  Identified in the remaining adrenal gland 20 years after adrenalectomy.</h2>
 
-
-<div class="english-link-list">
-
   <!-- 01 Malignant tumor -->
 
   <a href="/MARKDOWN/en/calmly-do.html"
@@ -165,7 +162,8 @@
 
   </a>
 
-</div>
+
+
 
 
 
