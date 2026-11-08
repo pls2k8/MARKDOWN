@@ -128,6 +128,19 @@
 
 </a>
 
+<a href="/MARKDOWN/en/definition-mt.html"
+   class="english-link">
+
+  <strong>▶ definition of malignant tumor?</strong>
+
+  <p>
+    A malignant tumor is a type of tumor commonly referred to as cancer. It has the ability to grow by invading surrounding normal tissues and may spread to distant organs through the bloodstream or lymphatic system. This process is known as metastasis.
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
+
 <a href="/MARKDOWN/en/treatment-options.html"
    class="english-link">
 
