@@ -109,7 +109,7 @@
 
   <　span>Read the article →</span>
 
-　</a>
+　　</a>
 
 <!-- 03. 20年後>
 
