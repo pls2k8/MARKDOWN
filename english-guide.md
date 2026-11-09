@@ -113,7 +113,7 @@
 
 <!-- 03. 20年後>
 
-<h2>03.  Identified in the remaining adrenal gland 20 years after adrenalectomy.</h2>
+<h2>03. Identified in the remaining adrenal gland 20 years later</h2>
 
   <!-- 01 Malignant tumor -->
 
