@@ -76,9 +76,6 @@
 　<hr class="guide-divider">
 
 
-<!-- 01. 症状について -->
-
-　
 <!-- 01. Symptoms -->
 
 <h2>01. Start with Your Current Symptoms</h2>
@@ -166,6 +163,7 @@
   <span>Read the article →</span>
 
 </a>
+
 
 
 
