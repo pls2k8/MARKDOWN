@@ -117,10 +117,10 @@
 
   <!-- 01 Malignant tumor -->
 
-  <a href="/MARKDOWN/en/calmly-do.html"
+<a href="/MARKDOWN/en/calmly-do.html"
      class="english-link">
 
-    <strong>▶ Malignant tumor?</strong>
+  　<strong>▶ Malignant tumor?</strong>
 
     <p>
       There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
@@ -133,7 +133,7 @@
 
   <!-- 02 Definition -->
 
-  <a href="/MARKDOWN/en/definition-mt.html"
+<a href="/MARKDOWN/en/definition-mt.html"
      class="english-link">
 
     <strong>▶ Definition of a malignant tumor</strong>
@@ -149,7 +149,7 @@
 
   <!-- 03 Future direction -->
 
-  <a href="/MARKDOWN/en/treatment-options.html"
+<a href="/MARKDOWN/en/treatment-options.html"
      class="english-link">
 
     <strong>▶ Future direction</strong>
@@ -161,6 +161,7 @@
     <span>Read the article →</span>
 
   </a>
+
 
 
 
