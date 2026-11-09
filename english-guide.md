@@ -117,52 +117,63 @@
 <h2>03. Identified in the Remaining Adrenal Gland</h2>
 
 
+
 <!-- 03-1. Malignant tumor -->
 
-<a href="/MARKDOWN/en/calmly-do.html"
-   class="english-link">
+<div class="english-link">
 
-  <strong>▶ Malignant tumor?</strong>
+  <a href="/MARKDOWN/en/calmly-do.html">
+    <strong>▶ Malignant tumor?</strong>
+  </a>
 
   <p>
     There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
   </p>
 
-  <span>Read the article →</span>
+  <a href="/MARKDOWN/en/calmly-do.html">
+    Read the article →
+  </a>
 
-</a>
+</div>
 
 
 <!-- 03-2. Definition of malignant tumor -->
 
-<a href="/MARKDOWN/en/definition-mt.html"
-   class="english-link">
+<div class="english-link">
 
-  <strong>▶ Definition of a Malignant Tumor</strong>
+  <a href="/MARKDOWN/en/definition-mt.html">
+    <strong>▶ Definition of a Malignant Tumor</strong>
+  </a>
 
   <p>
     A malignant tumor is commonly referred to as cancer. It can invade surrounding tissues and may spread to distant organs through the bloodstream or lymphatic system. This process is known as metastasis.
   </p>
 
-  <span>Read the article →</span>
+  <a href="/MARKDOWN/en/definition-mt.html">
+    Read the article →
+  </a>
 
-</a>
+</div>
 
 
 <!-- 03-3. Future direction -->
 
-<a href="/MARKDOWN/en/treatment-options.html"
-   class="english-link">
+<div class="english-link">
 
-  <strong>▶ Future Direction</strong>
+  <a href="/MARKDOWN/en/treatment-options.html">
+    <strong>▶ Future Direction</strong>
+  </a>
 
   <p>
     Tumor development in the remaining adrenal gland following contralateral adrenalectomy.
   </p>
 
-  <span>Read the article →</span>
+  <a href="/MARKDOWN/en/treatment-options.html">
+    Read the article →
+  </a>
 
-</a>
+</div>
+
 
 
 
