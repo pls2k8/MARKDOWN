@@ -78,89 +78,95 @@
 
 <!-- 01. 症状について -->
 
-　<h2>01. Start with Your Current Symptoms</h2>
+　
+<!-- 01. Symptoms -->
 
-　　<a href="/MARKDOWN/en/english-symptoms.html"
-   　class="english-link">
+<h2>01. Start with Your Current Symptoms</h2>
 
-  　<strong>▶ Explore Symptoms</strong>
+<a href="/MARKDOWN/en/english-symptoms.html"
+   class="english-link">
 
-  　<p>
-   　 Explore the changes and symptoms you may be experiencing.
-  　</p>
+  <strong>▶ Explore Symptoms</strong>
 
-  　<span>Read the article →</span>
+  <p>
+    Explore the changes and symptoms you may be experiencing.
+  </p>
 
-　　</a>
+  <span>Read the article →</span>
 
-
-<!-- 02. QOLについて -->
-
-　<h2>02. Understanding Changes and Finding Ways to Cope</h2>
-
-　　<a href="/MARKDOWN/en/qol.html"
-  　 class="english-link">
-
-  　<strong>▶ Maintain Your QOL</strong>
-
-  　<p>
-  　  Simple tips to maintain my QOL every day.
-  　</p>
-
-  <　span>Read the article →</span>
-
-　　</a>
-
-<!-- 03. 20年後>
-
-　<h2>03. Identified in the remaining adrenal gland.</h2>
-
-  <!-- 01 Malignant tumor -->
-
-　<a href="/MARKDOWN/en/calmly-do.html"
-     class="english-link">
-
-  　<strong>▶ Malignant tumor?</strong>
-
-    <p>
-      There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
-    </p>
-
-    <span>Read the article →</span>
-
-  </a>
+</a>
 
 
-  <!-- 02 Definition -->
+<!-- 02. QOL -->
 
-　<a href="/MARKDOWN/en/definition-mt.html"
-     class="english-link">
+<h2>02. Understanding Changes and Finding Ways to Cope</h2>
 
-    <strong>▶ Definition of a malignant tumor</strong>
+<a href="/MARKDOWN/en/qol.html"
+   class="english-link">
 
-    <p>
-      A malignant tumor is commonly referred to as cancer. It can invade surrounding tissues and may spread to distant organs through the bloodstream or lymphatic system. This process is known as metastasis.
-    </p>
+  <strong>▶ Maintain Your QOL</strong>
 
-    <span>Read the article →</span>
+  <p>
+    Simple tips to maintain my QOL every day.
+  </p>
 
-  </a>
+  <span>Read the article →</span>
+
+</a>
 
 
-  <!-- 03 Future direction -->
+<!-- 03. Remaining adrenal gland -->
 
-　<a href="/MARKDOWN/en/treatment-options.html"
-     class="english-link">
+<h2>03. Identified in the Remaining Adrenal Gland</h2>
 
-    <strong>▶ Future direction</strong>
 
-    <p>
-      Tumor development in the remaining adrenal gland following contralateral adrenalectomy.
-    </p>
+<!-- 03-1. Malignant tumor -->
 
-    <span>Read the article →</span>
+<a href="/MARKDOWN/en/calmly-do.html"
+   class="english-link">
 
-  </a>
+  <strong>▶ Malignant tumor?</strong>
+
+  <p>
+    There is no proven lifestyle approach that can reliably prevent a benign tumor from becoming malignant.
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
+
+
+<!-- 03-2. Definition of malignant tumor -->
+
+<a href="/MARKDOWN/en/definition-mt.html"
+   class="english-link">
+
+  <strong>▶ Definition of a Malignant Tumor</strong>
+
+  <p>
+    A malignant tumor is commonly referred to as cancer. It can invade surrounding tissues and may spread to distant organs through the bloodstream or lymphatic system. This process is known as metastasis.
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
+
+
+<!-- 03-3. Future direction -->
+
+<a href="/MARKDOWN/en/treatment-options.html"
+   class="english-link">
+
+  <strong>▶ Future Direction</strong>
+
+  <p>
+    Tumor development in the remaining adrenal gland following contralateral adrenalectomy.
+  </p>
+
+  <span>Read the article →</span>
+
+</a>
+
 
 
 
