@@ -35,28 +35,11 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 <h2>悪性腫瘍の定義</h2>
 
-<a href="/MARKDOWN/20years/malignant-one.html"
-   onclick="return checkPassword(event, this.href);">
+<a href="/MARKDOWN/20years/malignant-one.html">
   悪性腫瘍の定義とは？
   <br>
   <small>What Is the Definition of a Malignant Tumor?</small>
 </a>
-
-<script>
-function checkPassword(event, targetUrl) {
-  event.preventDefault();
-
-  const password = prompt("パスワードを入力してください");
-
-  if (password === "1234") {
-    window.location.href = targetUrl;
-  } else if (password !== null) {
-    alert("パスワードが違います");
-  }
-
-  return false;
-}
-</script>
 
 - <a href="#section05">No.05 ーーー</a>
 - <a href="#section06">No.06 ーーー</a>
