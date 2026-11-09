@@ -52,23 +52,25 @@
 
   </div>
 
- <!-- 記事：手術と入院 -->
+ 
+<!-- 記事：手術と入院 -->
 
-　<div class="english-link">
+<div class="english-link">
 
-  　<a href="/MARKDOWN/en/surgery.html">
+  <a href="/MARKDOWN/en/surgery.html">
     <strong>▶ Surgery and Hospitalization</strong>
-  　</a>
+  </a>
 
-  　<p>
-  　  My experience of surgery and recovery in hospital.
-  　</p>
+  <p>
+    My experience of surgery and recovery in hospital.
+  </p>
 
- 　 <a href="/MARKDOWN/en/surgery.html">
-    　Read the article →
-  　</a>
+  <a href="/MARKDOWN/en/surgery.html">
+    Read the article →
+  </a>
 
-　</div>
+</div>
+
 
 
 <!-- セクション区切り線 -->
