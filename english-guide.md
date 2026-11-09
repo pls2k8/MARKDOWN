@@ -36,7 +36,7 @@
 
   </div>
 
-<div class="english-link">
+　<div class="english-link">
 
     <a href="/MARKDOWN/en/diagnosis-preparation.html">
       <strong>▶Choose surgical approaches</strong>
@@ -54,70 +54,70 @@
 
  <!-- 記事：手術と入院 -->
 
-<div class="english-link">
+　<div class="english-link">
 
-  <a href="/MARKDOWN/en/surgery.html">
+  　<a href="/MARKDOWN/en/surgery.html">
     <strong>▶ Surgery and Hospitalization</strong>
-  </a>
+  　</a>
 
-  <p>
-    My experience of surgery and recovery in hospital.
-  </p>
+  　<p>
+  　  My experience of surgery and recovery in hospital.
+  　</p>
 
-  <a href="/MARKDOWN/en/surgery.html">
-    Read the article →
-  </a>
+ 　 <a href="/MARKDOWN/en/surgery.html">
+    　Read the article →
+  　</a>
 
-</div>
+　</div>
 
 
 <!-- セクション区切り線 -->
 
-<hr class="guide-divider">
+　<hr class="guide-divider">
 
 
 <!-- 01. 症状について -->
 
-<h2>01. Start with Your Current Symptoms</h2>
+　<h2>01. Start with Your Current Symptoms</h2>
 
-<a href="/MARKDOWN/en/english-symptoms.html"
-   class="english-link">
+　　<a href="/MARKDOWN/en/english-symptoms.html"
+   　class="english-link">
 
-  <strong>▶ Explore Symptoms</strong>
+  　<strong>▶ Explore Symptoms</strong>
 
-  <p>
-    Explore the changes and symptoms you may be experiencing.
-  </p>
+  　<p>
+   　 Explore the changes and symptoms you may be experiencing.
+  　</p>
 
-  <span>Read the article →</span>
+  　<span>Read the article →</span>
 
-</a>
+　　</a>
 
 
 <!-- 02. QOLについて -->
 
-<h2>02. Understanding Changes and Finding Ways to Cope</h2>
+　<h2>02. Understanding Changes and Finding Ways to Cope</h2>
 
-<a href="/MARKDOWN/en/qol.html"
-   class="english-link">
+　　<a href="/MARKDOWN/en/qol.html"
+  　 class="english-link">
 
-  <strong>▶ Maintain Your QOL</strong>
+  　<strong>▶ Maintain Your QOL</strong>
 
-  <p>
-    Simple tips to maintain my QOL every day.
-  </p>
+  　<p>
+  　  Simple tips to maintain my QOL every day.
+  　</p>
 
-  <span>Read the article →</span>
+  <　span>Read the article →</span>
 
-</a>
+　</a>
 
 <!-- 03. 20年後>
 
-<h2>03. Identified in the remaining adrenal gland.</h2>
+　<h2>03. Identified in the remaining adrenal gland.</h2>
 
   <!-- 01 Malignant tumor -->
 
-<a href="/MARKDOWN/en/calmly-do.html"
+　<a href="/MARKDOWN/en/calmly-do.html"
      class="english-link">
 
   　<strong>▶ Malignant tumor?</strong>
@@ -133,7 +133,7 @@
 
   <!-- 02 Definition -->
 
-<a href="/MARKDOWN/en/definition-mt.html"
+　<a href="/MARKDOWN/en/definition-mt.html"
      class="english-link">
 
     <strong>▶ Definition of a malignant tumor</strong>
@@ -149,7 +149,7 @@
 
   <!-- 03 Future direction -->
 
-<a href="/MARKDOWN/en/treatment-options.html"
+　<a href="/MARKDOWN/en/treatment-options.html"
      class="english-link">
 
     <strong>▶ Future direction</strong>
