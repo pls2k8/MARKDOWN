@@ -1,3 +1,7 @@
+---
+layout: page
+title: "Choosing to Undergo Adrenalectomy"
+---
 
 ## Choosing to Undergo Adrenalectomy
 
