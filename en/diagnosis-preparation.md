@@ -2,6 +2,7 @@
 layout: page
 title: "Choosing to Undergo Adrenalectomy"
 ---
+
 ## Choosing to Undergo Adrenalectomy
 
 *A Proven but More Invasive Approach or a Minimally Invasive Alternative*
