@@ -1,9 +1,17 @@
 
 ## Choosing to Undergo Adrenalectomy
 
-<img src="/MARKDOWN/en/IMG_0424.jpg" alt="Adrenalectomy surgery" class="article-photo">
-
 *A Proven but More Invasive Approach or a Minimally Invasive Alternative*
+
+<div class="photo-gallery">
+
+  <img src="/MARKDOWN/en/IMG_0424.jpg" alt="写真1">
+
+  <img src="/MARKDOWN/en/IMG_0424.jpg" alt="写真2">
+
+  <img src="/MARKDOWN/en/IMG_0424.jpg" alt="写真3">
+
+</div>
 
 
 I was presented with two main surgical options: a well-established procedure that involved a greater physical burden, and laparoscopic surgery, which was still relatively new at the time.
@@ -37,3 +45,5 @@ I spent my days worrying that the tumor might grow larger or begin affecting oth
 If I could have taken some kind of action, I might have been able to distract myself. But having no choice except to wait made the anxiety even harder to bear.
 
 ---
+
+
