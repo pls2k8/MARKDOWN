@@ -85,7 +85,7 @@ function checkPassword(event, targetUrl) {
 
   const password = prompt("パスワードを入力してください");
 
-  if (password === "1234") {
+  if (password === "12.345") {
     window.location.href = targetUrl;
   } else if (password !== null) {
     alert("パスワードが違います");
