@@ -74,10 +74,11 @@ CTかMRIで腫瘍の肥大化が極端でなければ良性、半年で１ｃｍ
 
 ## 【資料】
 
+
 <a href="/MARKDOWN/reading-item/neil-young.html"
    onclick="return checkPassword(event, this.href);">
   <small>→→→</small>
- </a>
+</a>
 
 <script>
 function checkPassword(event, targetUrl) {
@@ -93,6 +94,9 @@ function checkPassword(event, targetUrl) {
 
   return false;
 }
+
+</script>
+
 
 </script>
 
