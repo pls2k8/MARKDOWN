@@ -1,3 +1,8 @@
+---
+layout: default
+title: Neil Young『Waging Heavy Peace』に描かれた、音楽と仲間たちの熱狂
+---
+
 ## Neil Young『Waging Heavy Peace』に描かれた、音楽と仲間たちの熱狂
 
 <small>Waging heavy peace,The enthusiasm of music and friends</small>
